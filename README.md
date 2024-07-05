@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlknell
 - 👀 I’m interested in ...Cyber Security
-- 🌱 I’m currently learning ...Life
+- 🌱 https://github.com/gchq/stroom
 - 💞️ I’m looking to collaborate on ...projects involving AI and robotics
 - 📫 How to reach me ...carlknell@outlook.com
 
